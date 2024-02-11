@@ -47,4 +47,4 @@ To use the aimbot:
 3. Open Counter-Strike and start moving. The aimbot will automatically shoot when it detects an enemy.
 
 ## Video
-Check out the video on YouTube trying the code: [Counter Strike Aimbot Demo](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+Check out the video on YouTube trying the code: (Will Upload Later)
